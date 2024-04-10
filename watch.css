@@ -9,7 +9,7 @@ body{
     background-color: #F3D7CA;
 }
 .stopwatch{
-    background-image: linear-gradient(rgb(0,0,0,0.5),rgb(0,0,0,0.9)),url(./images/20211019101306_IMG_3761.jpg);
+    background-image: linear-gradient(rgb(0,0,0,0.5),rgb(0,0,0,0.9)),url(./images/background.png);
     background-size: cover;
     width: 50vw;
     height: 50vh;
